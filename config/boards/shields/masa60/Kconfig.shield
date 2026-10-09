@@ -1,2 +1,0 @@
-config SHIELD_MASA60
-    def_bool $(shields_list_contains,masa60)
